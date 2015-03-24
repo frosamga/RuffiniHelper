@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ruffinihelper"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.ruffinihelper.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ruffinihelper.Polinomio2"
+            android:label="@string/title_activity_polinomio"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.ruffinihelper.Polinomio3"
+            android:label="@string/title_activity_polinomio3"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.ruffinihelper.Polinomio4"
+            android:label="@string/title_activity_polinomio4"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.ruffinihelper.Polinomio5"
+            android:label="@string/title_activity_polinomio5"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.ruffinihelper.Polinomio6"
+            android:label="@string/title_activity_polinomio6"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.ruffinihelper.Polinomio7"
+            android:label="@string/title_activity_polinomio7" >
+        </activity>
+        <activity
+            android:name="com.example.ruffinihelper.Polinomio8"
+            android:label="@string/title_activity_polinomio8" >
+        </activity>
+        <activity
+            android:name="com.example.ruffinihelper.Polinomio9"
+            android:label="@string/title_activity_polinomio9" >
+        </activity>
+        <activity
+            android:name="com.example.ruffinihelper.Raices"
+            android:label="@string/title_activity_raices"
+            android:screenOrientation="landscape" >
+        </activity>
+    </application>
+
+</manifest>

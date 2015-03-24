@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ruffini Helper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_polinomio">Polinomio</string>
+    <string name="title_activity_polinomio3">Polinomio3</string>
+    <string name="title_activity_polinomio4">Polinomio4</string>
+    <string name="title_activity_polinomio5">Polinomio5</string>
+    <string name="title_activity_polinomio6">Polinomio6</string>
+    <string name="title_activity_polinomio7">Polinomio7</string>
+    <string name="title_activity_polinomio8">Polinomio8</string>
+    <string name="title_activity_polinomio9">Polinomio9</string>
+    <string name="title_activity_raices">Raices</string>
+
+</resources>
